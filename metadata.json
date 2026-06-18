@@ -1,0 +1,8 @@
+{
+  "name": "KK Industries",
+  "description": "Modern precision lathe work and heavy engineering services in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
